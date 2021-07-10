@@ -1,2 +1,2 @@
-# OpenCV--Learning
+# OpenCV-Learning
 Intro to OpenCv programming 
